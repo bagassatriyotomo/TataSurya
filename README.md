@@ -1,2 +1,2 @@
 # TataSurya
-Android (Java Based) Application about solar panel
+Android (Java Based) Application about solar system
